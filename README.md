@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ruhullah Shaikh 👋
 
-<!--
-**ruhullahshaikh/ruhullahshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & NLP Engineer | Software Developer
 
-Here are some ideas to get you started:
+🌍 Mumbai, India | 🏢 Currently @ SoftBuilders Software Design LLC, Dubai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Summary
+- 🧠 Specializing in NLP, ML, and Generative AI
+- 💻 Experienced in fine-tuning LLMs (Llama2, Mistral)
+- 🛠️ Proficient in PEFT, TRL, and Unsloth AI methodologies
+- 🐍 Python expert with skills in key ML libraries
+
+### 🔧 Tech Stack
+- Python | Flask | NumPy | Pandas | Scikit-learn | TensorFlow | PyTorch
+- Machine Learning | Deep Learning | NLP | Transformers
+
+### 🏆 Notable Projects
+- 📚 Book Generator using LLMs
+- 📖 Story Generation with Mistral
+- 🗣️ Text-to-Speech & Voice Cloning
+- 🤖 Custom Chatbots
+- 🌐 Machine Translation
+
+### 📫 Let's Connect!
+- 📧 Email: ruhullahshaikh7@gmail.com
+- 🔗 LinkedIn: [Ruhullah Shaikh](https://www.linkedin.com/in/ruhullahshaikh)
+
+Always eager to collaborate on innovative AI projects! Let's build something amazing together. 🚀
